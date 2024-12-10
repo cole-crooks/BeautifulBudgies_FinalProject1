@@ -43,7 +43,7 @@ namespace crookscl_FinalProject
                 total -= height;
                 height--;
             }
-
+             
             // Return the final number of floor boxes
             return bottom + 1;
         }
