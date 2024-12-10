@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulBudgies_FinalProject", "BeautifulBudgies_FinalProject\BeautifulBudgies_FinalProject.csproj", "{DBD4D32C-E3CB-414F-BDA0-A10D6A5BB517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBD4D32C-E3CB-414F-BDA0-A10D6A5BB517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD4D32C-E3CB-414F-BDA0-A10D6A5BB517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD4D32C-E3CB-414F-BDA0-A10D6A5BB517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD4D32C-E3CB-414F-BDA0-A10D6A5BB517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2DD4F78-BDC4-4CDC-A13E-28E261AF593C}
+	EndGlobalSection
+EndGlobal
