@@ -28,7 +28,7 @@
             <asp:Label ID="lblProblemSelect" runat="server" Text="Select a LeetCode problem to solve." SelectionMode="Single"></asp:Label>
             <asp:DropDownList ID="ProblemSelect" runat="server">
                 <asp:ListItem Text="Problem 1106" Value="1"></asp:ListItem>
-                <asp:ListItem Text="Problem (2)" Value="2"></asp:ListItem>
+                <asp:ListItem Text="Problem 273" Value="2"></asp:ListItem>
                 <asp:ListItem Text="Problem 1739" Value="3"></asp:ListItem>
                 <asp:ListItem Text="Problem (4)" Value="4"></asp:ListItem>
             </asp:DropDownList>
