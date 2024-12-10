@@ -80,6 +80,7 @@
     <Compile Include="index.aspx.designer.cs">
       <DependentUpon>index.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Problem 273 Solution.cs" />
     <Compile Include="Problem1106Soluction.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

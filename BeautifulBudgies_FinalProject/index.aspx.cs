@@ -45,7 +45,18 @@ namespace crookscl_FinalProject
                     lblSelectedProblemDetails.Text += "<br></br>Result: " + result.ToString();
                     break;
                 case "2":
-                    // ... call teh method for problem 2
+                    lblSelectedProblemDetails.Text = "<br></br> Convert a non-negative integer to its English words representation.";
+
+                    NumberToWordsConverter converter = new NumberToWordsConverter();
+
+                    int[] numbers = { 123, 12345, 1234567 }; // Example inputs
+
+                    lblSelectedProblemDetails.Text += "<br></br> Here are some examples of converting integers to English words:";
+                    foreach (int num in numbers)
+                    {
+                        string englishWords = converter.NumberToWords(num);
+                        lblSelectedProblemDetails.Text += $"<br></br>Number: {num} -> Words: {englishWords}";
+                    }
                     break;
                 case "3":
                     // Daquan
