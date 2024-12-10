@@ -82,6 +82,7 @@
     </Compile>
     <Compile Include="Problem 273 Solution.cs" />
     <Compile Include="Problem1106Soluction.cs" />
+    <Compile Include="Problem23Solution.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

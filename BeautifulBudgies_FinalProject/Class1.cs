@@ -12,7 +12,7 @@
              https://github.com/cole-crooks/crookscl_FinalProject 
              https://chatgpt.com
 
-* Anything else that's relevant: team: Jack Driehaus (driehajl@mail.uc.edu), Derick Bellofatto (bellofdk@mail.uc.edu), and Cole Crooks (crookscl@mail.uc.edu).
+* Anything else that's relevant: team: Jack Driehaus (driehajl@mail.uc.edu), Derick Bellofatto (bellofdk@mail.uc.edu), and Cole Crooks (crookscl@mail.uc.edu), and Daquan Daniels (danieldu@mail.uc.edu)
 */
 
 using System;

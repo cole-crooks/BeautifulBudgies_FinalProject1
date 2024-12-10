@@ -10,7 +10,7 @@
 * Brief Description of what this module does. Demonstrating all that we've learned this year, solve one (1) hard leetcode problem per person with class knowledge and Github
 * Citations:https://leetcode.com/problems/parsing-a-boolean-expression/description/
             https://github.com/cole-crooks/crookscl_FinalProject          
-* Anything else that's relevant: My collaborators on this project are Jack Driehaus (driehajl@mail.uc.edu), Derick Bellofatto (bellofdk@mail.uc.edu), and LAST GUY (HIS EMAIL)
+* Anything else that's relevant: My collaborators on this project are Jack Driehaus (driehajl@mail.uc.edu), Derick Bellofatto (bellofdk@mail.uc.edu), and Daquan Daniels (danieldu@mail.uc.edu)
 -->
 
 <%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="crookscl_FinalProject.index" %>
@@ -30,7 +30,7 @@
                 <asp:ListItem Text="Problem 1106" Value="1"></asp:ListItem>
                 <asp:ListItem Text="Problem 273" Value="2"></asp:ListItem>
                 <asp:ListItem Text="Problem 1739" Value="3"></asp:ListItem>
-                <asp:ListItem Text="Problem (4)" Value="4"></asp:ListItem>
+                <asp:ListItem Text="Problem 23" Value="4"></asp:ListItem>
             </asp:DropDownList>
             <asp:Button ID="cmdProblemSolve" runat="server" Text="Solve" OnClick="cmdProblemSolve_Click" />
 

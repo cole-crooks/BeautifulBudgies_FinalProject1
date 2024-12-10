@@ -10,7 +10,7 @@
 * Brief Description of what this module does. Demonstrating all that we've learned this year, solve one (1) hard leetcode problem per person with class knowledge and Github
 * Citations:https://leetcode.com/problems/parsing-a-boolean-expression/description/
             https://github.com/cole-crooks/crookscl_FinalProject          
-* Anything else that's relevant: My collaborators on this project are Jack Driehaus (driehajl@mail.uc.edu), Derick Bellofatto (bellofdk@mail.uc.edu), and LAST GUY (HIS EMAIL)
+* Anything else that's relevant: My collaborators on this project are Jack Driehaus (driehajl@mail.uc.edu), Derick Bellofatto (bellofdk@mail.uc.edu), and Daquan Daniels (danieldu@mail.uc.edu)
 */
 
 using System;
@@ -80,7 +80,7 @@ namespace crookscl_FinalProject
                     }
                     break;
                 case "4":
-                    // ... call the method for Problem 4
+                    lblSelectedProblemDetails.Text = "You are given an array of k linked-lists lists, each linked-list is sorted in ascending order.\r\n\r\nMerge all the linked-lists into one sorted linked-list and return it.\r\n\r\n \r\n\r\nExample 1:\r\n\r\nInput: lists = [[1,4,5],[1,3,4],[2,6]]\r\nOutput: [1,1,2,3,4,4,5,6]\r\nExplanation: The linked-lists are:\r\n[\r\n  1->4->5,\r\n  1->3->4,\r\n  2->6\r\n]\r\nmerging them into one sorted list:" + Leetcode23_MergeKSortedLists.Program.Problem23Solution();
                     break;
                 default:
                     break;
